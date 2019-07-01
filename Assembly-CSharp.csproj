@@ -64,8 +64,10 @@
   <ItemGroup>
     <Compile Include="Assets\caballeroController.cs" />
     <Compile Include="Assets\code\Background.cs" />
+    <Compile Include="Assets\code\CoinScript.cs" />
     <Compile Include="Assets\code\goshtClass.cs" />
     <Compile Include="Assets\code\MenuInicial.cs" />
+    <Compile Include="Assets\code\ScoreTextScript.cs" />
     <None Include="Assets\Sprites\freeknight\README.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/jorgitop/experiencia virtual/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
