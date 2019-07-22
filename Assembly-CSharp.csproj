@@ -68,6 +68,7 @@
     <Compile Include="Assets\code\CoinScript.cs" />
     <Compile Include="Assets\code\Door.cs" />
     <Compile Include="Assets\code\goshtClass.cs" />
+    <Compile Include="Assets\code\lives.cs" />
     <Compile Include="Assets\code\MenuInicial.cs" />
     <Compile Include="Assets\code\ScoreTextScript.cs" />
     <None Include="Assets\Sprites\freeknight\README.txt" />
