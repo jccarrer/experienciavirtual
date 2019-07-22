@@ -64,7 +64,9 @@
   <ItemGroup>
     <Compile Include="Assets\caballeroController.cs" />
     <Compile Include="Assets\code\Background.cs" />
+    <Compile Include="Assets\code\CamaraQueSigue.cs" />
     <Compile Include="Assets\code\CoinScript.cs" />
+    <Compile Include="Assets\code\Door.cs" />
     <Compile Include="Assets\code\goshtClass.cs" />
     <Compile Include="Assets\code\MenuInicial.cs" />
     <Compile Include="Assets\code\ScoreTextScript.cs" />
